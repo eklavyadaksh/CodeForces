@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 7 |
+| 14 | 10 |
 
 ---
 
@@ -14,9 +14,12 @@
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (2)
+- [data structures](#data-structures) (1)
+- [dp](#dp) (1)
 - [greedy](#greedy) (3)
 - [implementation](#implementation) (9)
 - [math](#math) (2)
+- [matrices](#matrices) (1)
 - [sortings](#sortings) (1)
 - [strings](#strings) (6)
 
@@ -34,6 +37,18 @@
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2257F2 | [Beaver's Jumping Track (Hard Version)](https://codeforces.com/contest/2257/problem/F2) | 2700 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/2257/F2%20-%20Beaver's%20Jumping%20Track%20(Hard%20Version)/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2257F2 | [Beaver's Jumping Track (Hard Version)](https://codeforces.com/contest/2257/problem/F2) | 2700 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/2257/F2%20-%20Beaver's%20Jumping%20Track%20(Hard%20Version)/solution.cpp) |
 
 ### greedy
 
@@ -63,6 +78,12 @@
 |---|---------|------------|----------|
 | 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+
+### matrices
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2257F2 | [Beaver's Jumping Track (Hard Version)](https://codeforces.com/contest/2257/problem/F2) | 2700 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/2257/F2%20-%20Beaver's%20Jumping%20Track%20(Hard%20Version)/solution.cpp) |
 
 ### sortings
 
