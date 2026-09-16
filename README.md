@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 35 | 14 |
+| 36 | 14 |
 
 ---
 
@@ -19,9 +19,9 @@
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (6)
+- [greedy](#greedy) (7)
 - [implementation](#implementation) (22)
-- [math](#math) (9)
+- [math](#math) (10)
 - [matrices](#matrices) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (3)
@@ -88,6 +88,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.cpp) |
+| 1348A | [Phoenix and Balance](https://codeforces.com/contest/1348/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/1348/A%20-%20Phoenix%20and%20Balance/solution.cpp) |
 | 1472A | [Cards for Friends](https://codeforces.com/contest/1472/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/1472/A%20-%20Cards%20for%20Friends/solution.cpp) |
 
 ### implementation
@@ -127,6 +128,7 @@
 | 69A | [Young Physicist](https://codeforces.com/contest/69/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/69/A%20-%20Young%20Physicist/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
+| 1348A | [Phoenix and Balance](https://codeforces.com/contest/1348/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/1348/A%20-%20Phoenix%20and%20Balance/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1363A | [Odd Selection](https://codeforces.com/contest/1363/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/1363/A%20-%20Odd%20Selection/solution.cpp) |
 | 1472A | [Cards for Friends](https://codeforces.com/contest/1472/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/1472/A%20-%20Cards%20for%20Friends/solution.cpp) |
