@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 50 | 18 |
+| 52 | 18 |
 
 ---
 
@@ -14,16 +14,16 @@
 
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (5)
-- [binary search](#binary-search) (1)
+- [binary search](#binary-search) (3)
 - [brute force](#brute-force) (11)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (1)
-- [dp](#dp) (3)
+- [dp](#dp) (4)
 - [geometry](#geometry) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (13)
-- [implementation](#implementation) (28)
-- [math](#math) (16)
+- [implementation](#implementation) (29)
+- [math](#math) (17)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -54,6 +54,8 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/279/B%20-%20Books/solution.cpp) |
+| 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/706/B%20-%20Interesting%20drink/solution.cpp) |
+| 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.cpp) |
 
 ### brute force
 
@@ -92,6 +94,7 @@
 |---|---------|------------|----------|
 | 550A | [Two Substrings](https://codeforces.com/contest/550/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/550/A%20-%20Two%20Substrings/solution.cpp) |
 | 702A | [Maximum Increase](https://codeforces.com/contest/702/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/702/A%20-%20Maximum%20Increase/solution.cpp) |
+| 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/706/B%20-%20Interesting%20drink/solution.cpp) |
 | 2257F2 | [Beaver's Jumping Track (Hard Version)](https://codeforces.com/contest/2257/problem/F2) | 2700 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/2257/F2%20-%20Beaver's%20Jumping%20Track%20(Hard%20Version)/solution.cpp) |
 
 ### geometry
@@ -148,6 +151,7 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 550A | [Two Substrings](https://codeforces.com/contest/550/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/550/A%20-%20Two%20Substrings/solution.cpp) |
 | 702A | [Maximum Increase](https://codeforces.com/contest/702/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/702/A%20-%20Maximum%20Increase/solution.cpp) |
+| 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/706/B%20-%20Interesting%20drink/solution.cpp) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
@@ -172,6 +176,7 @@
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
 | 1348A | [Phoenix and Balance](https://codeforces.com/contest/1348/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/1348/A%20-%20Phoenix%20and%20Balance/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
+| 1352C | [K-th Not Divisible by n](https://codeforces.com/contest/1352/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/1352/C%20-%20K-th%20Not%20Divisible%20by%20n/solution.cpp) |
 | 1363A | [Odd Selection](https://codeforces.com/contest/1363/problem/A) | 1200 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/1363/A%20-%20Odd%20Selection/solution.cpp) |
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.cpp) |
 | 1472A | [Cards for Friends](https://codeforces.com/contest/1472/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/1472/A%20-%20Cards%20for%20Friends/solution.cpp) |
