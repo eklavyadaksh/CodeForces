@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 54 | 18 |
+| 55 | 19 |
 
 ---
 
@@ -18,17 +18,18 @@
 - [brute force](#brute-force) (11)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (1)
-- [dp](#dp) (4)
+- [dp](#dp) (5)
+- [games](#games) (1)
 - [geometry](#geometry) (1)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (13)
+- [greedy](#greedy) (14)
 - [implementation](#implementation) (31)
 - [math](#math) (17)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (4)
-- [strings](#strings) (12)
+- [strings](#strings) (13)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -95,7 +96,14 @@
 | 550A | [Two Substrings](https://codeforces.com/contest/550/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/550/A%20-%20Two%20Substrings/solution.cpp) |
 | 702A | [Maximum Increase](https://codeforces.com/contest/702/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/702/A%20-%20Maximum%20Increase/solution.cpp) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/706/B%20-%20Interesting%20drink/solution.cpp) |
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 | 2257F2 | [Beaver's Jumping Track (Hard Version)](https://codeforces.com/contest/2257/problem/F2) | 2700 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/2257/F2%20-%20Beaver's%20Jumping%20Track%20(Hard%20Version)/solution.cpp) |
+
+### games
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 
 ### geometry
 
@@ -125,6 +133,7 @@
 | 1409A | [Yet Another Two Integers Problem](https://codeforces.com/contest/1409/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/1409/A%20-%20Yet%20Another%20Two%20Integers%20Problem/solution.cpp) |
 | 1472A | [Cards for Friends](https://codeforces.com/contest/1472/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/1472/A%20-%20Cards%20for%20Friends/solution.cpp) |
 | 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.cpp) |
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.cpp) |
 
 ### implementation
@@ -228,6 +237,7 @@
 | 550A | [Two Substrings](https://codeforces.com/contest/550/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/550/A%20-%20Two%20Substrings/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 1363B | [Subsequence Hate](https://codeforces.com/contest/1363/problem/B) | 1400 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/1363/B%20-%20Subsequence%20Hate/solution.cpp) |
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 
 ### two pointers
 
