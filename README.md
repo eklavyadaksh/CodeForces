@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 61 | 19 |
+| 63 | 19 |
 
 ---
 
@@ -23,13 +23,13 @@
 - [geometry](#geometry) (1)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (16)
-- [implementation](#implementation) (33)
+- [implementation](#implementation) (35)
 - [math](#math) (18)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (5)
-- [strings](#strings) (16)
+- [strings](#strings) (18)
 - [two pointers](#two-pointers) (2)
 
 ---
@@ -165,12 +165,14 @@
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
 | 469A | [I Wanna Be the Guy](https://codeforces.com/contest/469/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/469/A%20-%20I%20Wanna%20Be%20the%20Guy/solution.cpp) |
+| 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/520/A%20-%20Pangram/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 550A | [Two Substrings](https://codeforces.com/contest/550/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/550/A%20-%20Two%20Substrings/solution.cpp) |
 | 702A | [Maximum Increase](https://codeforces.com/contest/702/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/702/A%20-%20Maximum%20Increase/solution.cpp) |
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/706/B%20-%20Interesting%20drink/solution.cpp) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
 | 1311A | [Add Odd or Subtract Even](https://codeforces.com/contest/1311/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/1311/A%20-%20Add%20Odd%20or%20Subtract%20Even/solution.cpp) |
@@ -243,8 +245,10 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/520/A%20-%20Pangram/solution.cpp) |
 | 550A | [Two Substrings](https://codeforces.com/contest/550/problem/A) | 1500 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/550/A%20-%20Two%20Substrings/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
+| 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
 | 1363B | [Subsequence Hate](https://codeforces.com/contest/1363/problem/B) | 1400 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/1363/B%20-%20Subsequence%20Hate/solution.cpp) |
 | 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.cpp) |
 | 2242A | [Bigrams](https://codeforces.com/contest/2242/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/2242/A%20-%20Bigrams/solution.cpp) |
