@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 70 | 19 |
+| 71 | 19 |
 
 ---
 
@@ -24,7 +24,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (18)
 - [implementation](#implementation) (36)
-- [math](#math) (22)
+- [math](#math) (23)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
@@ -207,6 +207,7 @@
 | 1515B | [Phoenix and Puzzle](https://codeforces.com/contest/1515/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/1515/B%20-%20Phoenix%20and%20Puzzle/solution.cpp) |
 | 2149A | [Be Positive](https://codeforces.com/contest/2149/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/2149/A%20-%20Be%20Positive/solution.cpp) |
 | 2236B | [Tatar TV Show](https://codeforces.com/contest/2236/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/2236/B%20-%20Tatar%20TV%20Show/solution.cpp) |
+| 2257B | [Gigantomachy](https://codeforces.com/contest/2257/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/2257/B%20-%20Gigantomachy/solution.cpp) |
 | 2258A | [Odd Eraser](https://codeforces.com/contest/2258/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/2258/A%20-%20Odd%20Eraser/solution.cpp) |
 | 2261A | [Hey, It's Me, Souvlakity](https://codeforces.com/contest/2261/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/2261/A%20-%20Hey%2C%20It's%20Me%2C%20Souvlakity/solution.cpp) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/eklavyadaksh/CodeForces/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.cpp) |
